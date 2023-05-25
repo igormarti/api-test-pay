@@ -113,4 +113,5 @@ $ DELETE '/users/<:id>/avatar'
 
 status 204 No content
 
-```# api-test-pay
+```
+
